@@ -135,7 +135,7 @@ body {
 
 .heading-dot i {
   text-align: right;
-  padding: 5px;
+  padding: 0px;
   color: #93918f;
   cursor: pointer;
 }
@@ -149,7 +149,7 @@ body {
 
 .searchBox-inner {
   height: 100%;
-  width: 80%;
+  width: 85%;
   margin-left: 10px
   padding: 0px !important;
   background-color: transparent;
